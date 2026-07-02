@@ -1,44 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PMManager - Enterprise Product Commercial Management System</title>
-</head>
-<body style="margin: 0; padding: 2rem; font-family: Arial, sans-serif; line-height: 1.8; color: #333; background-color: #f9fafb;">
-    <div style="max-width: 1200px; margin: 0 auto; background: #fff; padding: 2rem; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
-        <!-- 软件主体介绍 -->
-        <h2 style="color: #2563eb; margin-top: 0; border-bottom: 2px solid #e5e7eb; padding-bottom: 0.8rem;">PMManager System Introduction</h2>
-        <p>PMmanager is a professional system software for the commercial development and management of enterprise products, exclusively built for Windows OS.</p>
-        <p>It enables more professional and comprehensive control over the full lifecycle of product commercialization and administration, covering core modules including product line management, product management, version control, demand management, user persona analysis, competitive landscape tracking, external business workflow orchestration, and more.</p>
-        <p>As an end-to-end lifecycle management platform, it supports the complete product journey from initial business motivation definition all the way through to product delisting.</p>
-        <p>This system empowers enterprises and professional product managers to conduct standardized, holistic commercial product development. It elevates organizational capabilities in product commercialization and governance, improves the market launch success rate of products, and extends product lifespans.</p>
-        <p>Ultimately, PMmanager constructs a structured enterprise product commercial database. When integrated with AI capabilities, it evolves into a dedicated corporate knowledge base for all product commercialization matters.</p>
+PMmanager
+Windows-only Professional Enterprise Product Commercial Management System
+Overview
+PMmanager is a professional system software for the commercial development and management of enterprise products, exclusively built for Windows OS.
+It supports full-lifecycle product commercial management, covering product line management, product management, version control, demand management, user persona analysis, competitive landscape tracking, and external business workflow arrangement.
+This platform runs through the entire product lifecycle from business motivation research to official product delisting. It helps enterprises and product managers standardize commercial product development, improve product market launch success rate, and extend product lifecycle.
+The system builds a structured product commercial database. Combined with AI capabilities, it can be evolved into an enterprise-level product commercial knowledge base.
+Screenshots
 
-        <!-- 产品展示图片 -->
-        <h3 style="color: #374151; margin: 2rem 0 1rem 0;">Product Preview</h3>
-        <div style="display: grid; gap: 1rem; margin-bottom: 2rem;">
-            <img width="100%" height="auto" style="border-radius: 8px; border: 1px solid #eee;" alt="1" src="https://github.com/user-attachments/assets/8c7af99f-16ef-48ee-b9c6-8213de161409" />
-            <img width="100%" height="auto" style="border-radius: 8px; border: 1px solid #eee;" alt="6" src="https://github.com/user-attachments/assets/228d12cc-4fa9-42ac-8d5f-ef4e3d018a4c" />
-            <img width="100%" height="auto" style="border-radius: 8px; border: 1px solid #eee;" alt="2" src="https://github.com/user-attachments/assets/78ba53db-952b-4e41-9d60-9507ca53e322" />
-            <img width="100%" height="auto" style="border-radius: 8px; border: 1px solid #eee;" alt="10" src="https://github.com/user-attachments/assets/adbd35b0-babe-416d-95c6-390f36f82e13" />
-        </div>
 
-        <!-- 重要特别说明 -->
-        <h3 style="color: #d97706; margin: 2rem 0 1rem 0; border-left: 4px solid #d97706; padding-left: 0.8rem;">Special Notes</h3>
-        <ul style="padding-left: 1.5rem; margin: 0;">
-            <li style="margin-bottom: 0.8rem;">This software is designed exclusively for the commercial development and management of enterprise products. It is not a management system for UI/UE design, R&D work, or technical requirement tracking.</li>
-            <li style="margin-bottom: 0.8rem;">This is a paid commercial software product.</li>
-            <li>The complete system integrates built-in AI modules, which are not included or displayed in this release.</li>
-        </ul>
+Special Notes:
+- This software focuses entirely on product commercial development and commercial management. It does not manage UI/UE design, R&D development, or technical requirements.
+- This is a paid commercial software.
+- The complete official system contains built-in AI modules, which are not included in this public release version.
 
-        <!-- 官方联系方式 -->
-        <h3 style="color: #2563eb; margin: 2rem 0 1rem 0;">Official Contact Information</h3>
-        <div style="padding: 1rem; background-color: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
-            <p style="margin: 0.5rem 0;"><strong>Official Website:</strong> www.chinapm.com.cn</p>
-            <p style="margin: 0.5rem 0;"><strong>Business Email:</strong> rs@pmmanager.com.cn</p>
-            <p style="margin: 0.5rem 0;"><strong>WeChat ID:</strong> UCPM-Max</p>
-        </div>
-    </div>
-</body>
-</html>
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/d60e7599-60cd-4779-a5ce-2927824e3ecf" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/49d96875-0836-4c92-a8c4-6a878e10294d" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/9fd9d014-b0fd-4ecf-9572-17a4ce56e7f1" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/11b5d643-ffc8-493b-bdc9-43a5f23d50cf" />
+
+
+
+Contact:
+- Official Website: https://www.chinapm.com.cn
+- Email: rs@pmmanager.com.cn
+- WeChat: UCPM-Max
