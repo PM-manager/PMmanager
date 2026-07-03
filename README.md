@@ -1,5 +1,5 @@
-# **PMmanager**
-### **Windows-only Professional Enterprise Product Commercial Development Management System**
+# **PMmanager**  [ Windows-only ] 
+### **Professional Enterprise Product Commercial Development Management System**
 
 # **Overview**
 PMmanager is a professional system software for the commercial development and management of enterprise products, exclusively built for Windows OS.
