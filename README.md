@@ -1,6 +1,13 @@
-PMmanager
-Windows-only Professional Enterprise Product Commercial Management System
-Overview
+# **PMmanager**
+### **Windows-only Professional Enterprise Product Commercial Management System**
+
+
+
+
+
+
+# **Overview**
+
 PMmanager is a professional system software for the commercial development and management of enterprise products, exclusively built for Windows OS.
 It supports full-lifecycle product commercial management, covering product line management, product management, version control, demand management, user persona analysis, competitive landscape tracking, and external business workflow arrangement.
 This platform runs through the entire product lifecycle from business motivation research to official product delisting. It helps enterprises and product managers standardize commercial product development, improve product market launch success rate, and extend product lifecycle.
@@ -8,7 +15,7 @@ The system builds a structured product commercial database. Combined with AI cap
 Screenshots
 
 
-Special Notes:
+# **Special Notes:**
 - This software focuses entirely on product commercial development and commercial management. It does not manage UI/UE design, R&D development, or technical requirements.
 - This is a paid commercial software.
 - The complete official system contains built-in AI modules, which are not included in this public release version.
@@ -20,7 +27,7 @@ Special Notes:
 
 
 
-Contact:
+# **Contact:**
 - Official Website: https://www.chinapm.com.cn
 - Email: rs@pmmanager.com.cn
 - WeChat: UCPM-Max
