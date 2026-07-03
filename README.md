@@ -19,6 +19,9 @@ The system builds a structured product commercial database. Combined with AI cap
 - product commercial development teams,
 - and professional specialists who are responsible for enterprise product commercial development and management.
 
+# **Usage Instructions:**
+This repository is for demonstration and promotional purposes only. Please contact us via WeChat and complete the payment, after which we will send you the official help documents, database files and other relevant resource packages.
+
 # **Screenshots**
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/d60e7599-60cd-4779-a5ce-2927824e3ecf" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/49d96875-0836-4c92-a8c4-6a878e10294d" />
